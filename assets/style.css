@@ -1,0 +1,18 @@
+body {
+    background-color: #E062AC;
+    font-family: "Exo 2"
+;
+}
+
+footer {
+    background-color: #A93AE0;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    text-align: center;
+    font-size: 1rem;
+}
